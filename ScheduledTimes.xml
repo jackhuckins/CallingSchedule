@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Jobs>
+  <DirectBuy>
+    <StartTime>1:00 PM</StartTime>
+    <Times>
+      <id>0</id>
+      <event>Work Time</event>
+      <duration>420</duration>
+    </Times>
+    <Times>
+      <id>1</id>
+      <event>Call Club General #1</event>
+      <duration>75</duration>
+    </Times>
+    <Times>
+      <id>2</id>
+      <event>Break #1</event>
+      <duration>10</duration>
+    </Times>
+    <Times>
+      <id>3</id>
+      <event>Training</event>
+      <duration>50</duration>
+    </Times>
+    <Times>
+      <id>4</id>
+      <event>Call Info Lists #1</event>
+      <duration>75</duration>
+    </Times>
+    <Times>
+      <id>5</id>
+      <event>Lunch Time</event>
+      <duration>30</duration>
+    </Times>
+    <Times>
+      <id>6</id>
+      <event>Call Club General #2</event>
+      <duration>90</duration>
+    </Times>
+    <Times>
+      <id>7</id>
+      <event>Break #2</event>
+      <duration>15</duration>
+    </Times>
+    <Times>
+      <id>8</id>
+      <event>Call Info Lists #2</event>
+      <duration>75</duration>
+    </Times>
+    <Times>
+      <id>9</id>
+      <event>Work Over</event>
+      <duration>1020</duration>
+    </Times>
+  </DirectBuy>
+</Jobs>

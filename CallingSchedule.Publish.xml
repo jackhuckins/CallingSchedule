@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Inetpub\wwwroot\DirectBuy\" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="05/01/2013 11:13:46" />
+    <file relUrl="ScheduledTimesWkend.xml" publishTime="05/11/2013 09:23:26" />
+    <file relUrl="ScheduledTimes.xml" publishTime="05/10/2013 15:25:43" />
+    <file relUrl="bin/CallingSchedule.pdb" publishTime="05/11/2013 10:53:41" />
+    <file relUrl="Styles.css" publishTime="05/07/2013 17:39:59" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="05/01/2013 07:53:54" />
+    <file relUrl="bin/ScheduledTimes.xml" publishTime="05/10/2013 15:25:43" />
+    <file relUrl="bin/CallingSchedule.dll" publishTime="05/11/2013 10:53:41" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="05/01/2013 07:53:54" />
+    <file relUrl="Images/ironman3.jpg" publishTime="05/06/2013 22:52:27" />
+    <file relUrl="Default.aspx" publishTime="05/11/2013 11:59:43" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="05/01/2013 07:53:54" />
+    <file relUrl="Images/iron-man-3-hd-wallpaper.jpg" publishTime="05/06/2013 22:45:07" />
+  </publishProfile>
+</publishData>

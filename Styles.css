@@ -1,0 +1,31 @@
+﻿body {
+}
+
+.timer_curr
+{
+    font-family: Segoe UI;
+    font-weight: bold;
+    font-size: large;
+    color: White;
+}
+.timer_title 
+{
+    font-family: Segoe UI;
+    font-weight: bold;
+    font-size: medium;
+    color: White;
+}
+.timer_diff
+{
+    font-family: Segoe UI;
+    font-weight: bold;
+    font-size: x-large;
+    color: White;
+}
+.timer_header
+{
+    font-family: Segoe UI;
+    font-weight: bold;
+    font-size: xx-large;
+    color: White;
+}
